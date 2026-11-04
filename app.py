@@ -23,7 +23,7 @@ st.set_page_config(
     layout="wide"
 )
 
-BASE_DIR = "/content/drive/MyDrive/Potato_Late_Blight_Prototype"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 MODEL_PATH = os.path.join(
     BASE_DIR, "03_Models", "best_disease_model.keras"
