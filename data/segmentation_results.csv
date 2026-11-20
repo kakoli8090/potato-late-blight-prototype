@@ -1,0 +1,6 @@
+
+Method,Mean_Dice,Mean_IoU,Mean_Absolute_Severity_Error_pp
+HSV,0.5450,0.4249,10.0682
+HSV AND Lab,0.5539,0.4422,7.3931
+HSV OR Lab,0.6180,0.4776,10.3120
+Lab,0.6359,0.5010,5.9436
